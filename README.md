@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫About Me :
-🔭I'm currently working as a frontier.
+- 🔭 I'm currently working as a frontier.
 - 🌱 I'm currently learning more on flutter & dart.
 - 👯 I'm looking to collaborate on stack overflow.
 - 🤔 I'm looking for help at flutter and dart documentation
