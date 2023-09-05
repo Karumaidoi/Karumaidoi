@@ -8,6 +8,6 @@ Am Alex Maina, a Software Engineer. Am passionate about creating quality applica
 
 Let's connect:
 
-https://www.linkedin.com/in/alex-maina-b72014217/
+LinkedIn https://www.linkedin.com/in/alex-maina-b72014217/
 
   
