@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Am Alex Maina, a Software Engineer. Am passionate about creating quality applications. I love contributing to open source projects and teaching other engineers to upscale their skills.
+Mobile App Developer | 💚 Android, 🤍 iOS, Flutter & Indie Developer
 
-🚀 I am very passionate about giving back to the community and share the knowledge and experiences I have over time as a Software Engineer.
-
-Let's connect: - https://www.linkedin.com/in/alex-maina-b72014217/
+Let's connect because energy is contagious: - https://www.linkedin.com/in/alex-maina-b72014217/
 
   
